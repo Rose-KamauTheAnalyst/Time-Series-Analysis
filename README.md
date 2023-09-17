@@ -1,7 +1,7 @@
 ![Corporation Favorita](image.png)
 
 <p align="center">
-  <img width="150" height="150" src="image.png">
+  <img width="200" height="150" src="image.png">
 </p>
 
 # Insights and Analyzing Corporation Favorita's Store Sales Data
