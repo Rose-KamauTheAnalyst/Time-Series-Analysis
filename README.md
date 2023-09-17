@@ -1,4 +1,4 @@
-![Corporation Favorita](image.png)
+               ![Corporation Favorita](image.png)
 
 
 # Insights and Analyzing Corporation Favorita's Store Sales Data
