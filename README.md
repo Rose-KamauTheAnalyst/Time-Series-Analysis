@@ -1,4 +1,4 @@
-![Corporation Favorita](image.png)
+
 
 <p align="center">
   <img width="200" height="150" src="image.png">
